@@ -1,3 +1,4 @@
+![image](https://github.com/INSECT5386/SeQRoN/blob/main/logo.png)
 # SeQRoN: Seq2Seq + Neuron
 
 SeQRoN은 97,000개의 입출력 데이터로 학습한 **Seq2Seq 기반의 NLP 모델**입니다. 이 모델은 개발이 중단되었으며 개인 또는 단체의 상업적 사용 또한 허용합니다.
